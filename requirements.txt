@@ -3,5 +3,5 @@ uvicorn[standard]==0.32.1
 pydantic==2.10.3
 pydantic-settings==2.12.0
 python-dotenv==1.0.1
-requests==2.32.3
+request==2.32.3
 
